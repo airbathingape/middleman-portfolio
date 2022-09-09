@@ -8,12 +8,12 @@
   image: projects/placeholder.png
   url: https://www.google.com
 
-- name: Airbnb
-  description: Decent description of the app
-  image: projects/placeholder.png
+- name: Rent-a-pet
+  description: Marketplace where you can rent a pet from a local shelter
+  image: projects/renta.png
   url: https://www.google.com
 
-- name: Final project
-  description: Decent description of the app
-  image: projects/placeholder.png
+- name: Food Mood
+  description: Mobile-first app where you can swipe through various recipe suggestions
+  image: projects/foodmood.png
   url: https://www.google.com
