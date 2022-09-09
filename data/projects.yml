@@ -4,7 +4,7 @@
   url: https://airbathingape.github.io/react-giphy/
   stack: Made with React, Giphy API
 
-- name: Rent-a-pet
+- name: Rent-A-Pet
   description: Marketplace where you can rent a pet from a local shelter.
   image: projects/renta.png
   url: http://rent-a-pet-1000.herokuapp.com/
