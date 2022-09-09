@@ -1,14 +1,17 @@
 - name: Giphy React
   description: Search through giphy for pictures! Made with React
   image: projects/giphy.png
-  url: https://www.google.com
+  url: https://airbathingape.github.io/react-giphy/
+  stack: Made with React, Giphy API
 
-- name: Rent-a-pet
-  description: Marketplace where you can rent a pet from a local shelter. Made with Rails
+- name: Rent-A-Pet
+  description: Marketplace where you can rent a pet from a local shelter.
   image: projects/renta.png
-  url: https://www.google.com
+  url: http://rent-a-pet-1000.herokuapp.com/
+  stack: Made with Rails, PostGreSQL, Pundit, Devise, StimulusJS
 
 - name: Food Mood
-  description: Mobile-first app where you can swipe through various recipe suggestions. Made with Rails
+  description: Mobile-first app where you can swipe through various recipe suggestions.
   image: projects/foodmood.png
   url: https://www.google.com
+  stack: Made with Rails, PostGreSQL, Edamam API, Pundit, Devise, StimulusJS
