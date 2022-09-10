@@ -1,5 +1,5 @@
 - name: Giphy React
-  description: Search through giphy for pictures! Made with React
+  description: Search through Giphy for pictures!
   image: projects/giphy.png
   url: https://airbathingape.github.io/react-giphy/
   stack: Made with React, Giphy API
@@ -13,5 +13,5 @@
 - name: Food Mood
   description: Mobile-first app where you can swipe through various recipe suggestions.
   image: projects/foodmood.png
-  url: https://www.google.com
+  url: https://www.food-mood.online
   stack: Made with Rails, PostGreSQL, Edamam API, Pundit, Devise, StimulusJS
