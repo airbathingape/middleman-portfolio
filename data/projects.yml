@@ -1,14 +1,8 @@
-- name: Giphy React
-  description: Search through Giphy for pictures!
-  image: projects/giphy.png
-  url: https://airbathingape.github.io/react-giphy/
-  stack: Made with React, Giphy API
-
-- name: Rent-A-Pet
-  description: Marketplace where you can rent a pet from a local shelter.
-  image: projects/renta.png
-  url: http://rent-a-pet-1000.herokuapp.com/
-  stack: Made with Rails, PostGreSQL, Pundit, Devise, StimulusJS
+- name: StockX Clone
+  description: A static clone of StockX Marketplace.
+  image: projects/stockx.png
+  url: https://comfy-pie-d62cd1.netlify.app/
+  stack: React, HTML, CSS, Bootstrap
 
 - name: Food Mood
   description: Mobile-first app where you can swipe through various recipe suggestions.
@@ -16,8 +10,20 @@
   url: https://www.food-mood.online
   stack: Made with Rails, PostGreSQL, Edamam API, Pundit, Devise, StimulusJS
 
+- name: Rent-A-Pet
+  description: Marketplace where you can rent a pet from a local shelter.
+  image: projects/renta.png
+  url: http://rent-a-pet-1000.herokuapp.com/
+  stack: Made with Rails, PostGreSQL, Pundit, Devise, StimulusJS
+
+- name: Giphy React
+  description: Search through Giphy for pictures!
+  image: projects/giphy.png
+  url: https://airbathingape.github.io/react-giphy/
+  stack: Made with React, Giphy API
+
 - name: Movie Watch List
-  description: Make Bookmarks on which movies to watch
+  description: Make Bookmarks on which movies to watch.
   image: projects/watchlist.png
   url: https://rails-watch-list-chi.herokuapp.com/
   stack: Made with Rails, PostGreSQL, TMDB API
