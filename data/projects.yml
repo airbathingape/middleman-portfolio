@@ -1,8 +1,14 @@
+- name: Meme Generator
+  description: Make memes! Get an image from an API and you can add text to it!
+  image: projects/memes.png
+  url:
+  stack: React, HTML, CSS, API
+
 - name: StockX Clone
   description: A static clone of StockX Marketplace.
   image: projects/stockx.png
   url: https://comfy-pie-d62cd1.netlify.app/
-  stack: React, HTML, CSS, Bootstrap
+  stack: React, HTML, CSS
 
 - name: Food Mood
   description: Mobile-first app where you can swipe through various recipe suggestions.
