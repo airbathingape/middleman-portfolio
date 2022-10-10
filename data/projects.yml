@@ -1,7 +1,7 @@
 - name: Meme Generator
   description: Make memes! Get an image from an API and you can add text to it!
   image: projects/memes.png
-  url:
+  url: https://earnest-cheesecake-22061a.netlify.app/
   stack: React, HTML, CSS, API
 
 - name: StockX Clone
